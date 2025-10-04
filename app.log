@@ -1,0 +1,30 @@
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, AI Response: Hello! How can I help you today?
+INFO:root:Session ID: string, User Query: Hello, Model: gemini-2.5-flash
+INFO:root:Session ID: string, AI Response: Hello there! How can I assist you?
+INFO:root:Session ID: 698755bb-c5f3-4cef-b5f4-2506963ed0b5, User Query: hello, Model: gemini-2.5-flash
+INFO:root:Session ID: 698755bb-c5f3-4cef-b5f4-2506963ed0b5, AI Response: Hello! How can I help you today?
+INFO:root:Session ID: 698755bb-c5f3-4cef-b5f4-2506963ed0b5, User Query: tell me about iris dataset, Model: gemini-2.5-flash
+INFO:root:Session ID: 698755bb-c5f3-4cef-b5f4-2506963ed0b5, AI Response: The Iris dataset is a well-known dataset used for **classifying different types of irises**.
+
+Here's what the context tells us about it:
+*   **Purpose:** It's used to classify the different types of irises.
+*   **Availability:** It's an inbuilt dataset within the Seaborn package, making it easy to load and use.
+*   **Usage in the code:** The provided code loads it using `sns.load_dataset('iris')`.
+*   **Application:** It's commonly used for machine learning tasks, specifically classification, as demonstrated by the code which uses Logistic Regression to classify iris types and evaluates its performance with an accuracy score and confusion matrix.
+INFO:root:Session ID: 53a54604-d5bf-4de2-a6f0-e611b59caffb, User Query: hello, Model: gemini-2.5-flash
+INFO:root:Session ID: 53a54604-d5bf-4de2-a6f0-e611b59caffb, AI Response: Hello! How can I help you today?
+INFO:root:Session ID: 53a54604-d5bf-4de2-a6f0-e611b59caffb, User Query: tell me about yourself, Model: gemini-2.5-flash
+INFO:root:Session ID: 53a54604-d5bf-4de2-a6f0-e611b59caffb, AI Response: I am a large language model, trained by Google. I'm designed to assist with a wide range of tasks, like answering questions, providing information, generating text, and helping with creative writing, among many other things.
+
+How can I help you today?
